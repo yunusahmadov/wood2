@@ -1,0 +1,81 @@
+{
+    "images1": [
+        {
+            "id": 1,
+            "url": "../images/image.png"
+        },
+        {
+            "id": 2,
+            "url": "../images/image (1).png"
+        },
+        {
+            "id": 3,
+            "url": "../images/image (2).png"
+        }
+    ],
+    "images2": [
+        {
+            "id": 4,
+            "url": "./images/old-wood-grain-background 2.png",
+            "text1": "Durability",
+            "text2": "Beautiful texture",
+            "vect": "./images/Vector (8).png",
+            "vect2": "./images/Vector (8).png",
+            "vect3": "./images/Vector (8).png",
+            "vect4": "./images/Vector (9).png",
+            "text3": "Durability",
+            "text4": "Beautiful texture",
+            "title": "Oak"
+        },
+        {
+            "id": 5,
+            "url": "./images/wood-texture-design-decoration 1.png",
+            "text1": "Durability",
+            "text2": "Hard to handle",
+            "vect": "./images/Vector (8).png",
+            "vect2": "./images/Vector (9).png",
+            "text3": "",
+            "text4": "",
+            "title": "Buk"
+        },
+        {
+            "id": 6,
+            "url": "./images/pale-oak-wood-texture-design-background 1.png",
+            "text1": "Durability",
+            "text2": "Hard to handle",
+            "vect": "./images/Vector (8).png",
+            "vect2": "./images/Vector (9).png",
+            "text3": "",
+            "text4": "",
+            "title": "Ash"
+        }
+    ],
+    "images3": [
+        {
+            "id": 7,
+            "url": "./images/modern-wooden-kitchen-interior-steel-kitchen-faucet 2.png"
+        },
+        {
+            "id": 8,
+            "url": "./images/bar-stool-modern-accent.jpg"
+        },
+        {
+            "id": 9,
+            "url": "./images/gainsboro-grey.jpg"
+        }
+    ],
+    "images4": [
+        {
+            "id": 10,
+            "url": "./images/person-taking-measures-wood 1.png"
+        },
+        {
+            "id": 11,
+            "url": "./images/portrait-young-motivated-carpenter-standing-by-woodworking-machine-his-carpentry-workshop 1.png"
+        },
+        {
+            "id": 12,
+            "url": "./images/cropped-man-wearing-blue-overall-drawing-furniture-sheet-paper 1.png"
+        }
+    ]
+}

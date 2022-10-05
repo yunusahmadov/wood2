@@ -1,0 +1,40 @@
+[
+
+    {
+        "id":4,
+        "url":"./images/old-wood-grain-background 2.png",
+        "text1":"Durability",
+        "text2":"Beautiful texture",
+        "vect":"./images/Vector (8).png",
+        "vect2":"./images/Vector (8).png",
+        "vect3":"./images/Vector (8).png",
+        "vect4":"./images/Vector (9).png",
+        "text3":"Durability",
+        "text4":"Beautiful texture",
+        "title":"Oak"
+    },
+    {
+        "id":5,
+        "url":"./images/wood-texture-design-decoration 1.png",
+        "text1":"Durability",
+        "text2":"Hard to handle",
+        "vect":"./images/Vector (8).png",
+        "vect2":"./images/Vector (9).png",
+        "text3":"",
+        "text4":"",
+        "title":"Buk"
+    },
+    {
+        "id":6,
+        "url":"./images/pale-oak-wood-texture-design-background 1.png",
+        "text1":"Durability",
+        "text2":"Hard to handle",
+        "vect":"./images/Vector (8).png",
+        "vect2":"./images/Vector (9).png",
+        "text3":"",
+        "text4":"",
+        "title":"Ash"
+    
+    }
+]
+
